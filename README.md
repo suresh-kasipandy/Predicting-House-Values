@@ -15,6 +15,3 @@ The U.S.A. has a decennial census which provides information about households ac
 | medianIncome     | median income of households | 10K dollars |
 | medianHouseValue | median value of housing at location | 1K dollars |
 
-<br><br>
-Now let us load the data into a data frame and take our first look.
-<br><br>
